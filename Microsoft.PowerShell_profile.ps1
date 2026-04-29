@@ -1,4 +1,4 @@
 Set-PSReadLineOption -EditMode Vi
 
-Set-Alias -Name l -Value Get-ChildItem -Force
-
+Set-Alias -Name l -Value eza
+Set-Alias -Name ff -Value fastfetch
